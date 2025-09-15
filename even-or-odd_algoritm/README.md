@@ -7,8 +7,8 @@ O objetivo principal deste projeto é treinar **lógica de programação**, uso 
 
 ## Funcionalidades
 - Solicita ao usuário um número inteiro.
-- Verifica se o número é **divisível por 2**.
-- Retorna se o número é **Par** ou **Ímpar**.
+- Verifica se o número é **divisível por 2**
+- Retorna se o número é **Par** ou **Ímpar**
 
 ---
 
@@ -24,3 +24,4 @@ O objetivo principal deste projeto é treinar **lógica de programação**, uso 
 3. Execute o programa:
    ```bash
    python main.py
+
