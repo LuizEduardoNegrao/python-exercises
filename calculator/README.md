@@ -1,25 +1,25 @@
-# 🧮 Calculadora em Python
+# Calculadora em Python
 
 Este é um projeto simples desenvolvido em **Python** para treinar **lógica de programação**, uso de **funções** e boas práticas no código.  
 A calculadora permite realizar operações **básicas** e **avançadas**, escolhidas pelo usuário.
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
-### 🔹 Cálculos Básicos:
+### Cálculos Básicos:
 - Soma (`+`)
 - Subtração (`-`)
 - Multiplicação (`x`)
 - Divisão (`/`)
 
-### 🔹 Cálculos Avançados:
+### Cálculos Avançados:
 - Potência (`n1 ** n2`)
 - Raiz (`n1 ** (1/n2)`)
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Clone este repositório:
    ```bash
